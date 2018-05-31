@@ -6,4 +6,6 @@
 * Branches
 * Student repos
 * GitHub Classroom
-* permissions
+* Permissions
+* Exersizes
+* Automated Testing
