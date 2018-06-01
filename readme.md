@@ -13,3 +13,4 @@
 # Let's make some changes!
 * Don't forget to make comments in the commits!
 * Let's continue a bit
+* of course!
